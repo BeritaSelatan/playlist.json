@@ -7,50 +7,50 @@
     {
             "channel_id": 1,
             "channel_order": 1,
-            "channel_name": "Channel K",
+            "channel_name": "Rtm1",
             "channel_category": "entertainment",
             "channel_description": "",
-            "channel_url" : "https://d3cs5y5559s57s.cloudfront.net/live/channelk.m3u8"
+            "channel_url" : "https://rtm1mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b2064000.m3u8"
         },
     {
             "channel_id": 2,
             "channel_order": 2,
-            "channel_name": "DVB",
+            "channel_name": "RTM2",
             "channel_category": "news",
             "channel_description": "",
-            "channel_url" : "https://l1-xl1.myanmarnet.com/relay/dvb/ch1/stream_hi/index.m3u8"
+            "channel_url" : "https://rtm2mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b2064000.m3u8"
         },
     {
             "channel_id": 3,
             "channel_order": 3,
-            "channel_name": "MNTV",
+            "channel_name": "TV3",
             "channel_category": "entertainment",
             "channel_description": "",
-            "channel_url" : "http://l1-xl1.myanmarnet.com/relay/mntv/ch1/stream.m3u8"
+            "channel_url" : "http://1.9.58.113:8063?deviceId=ODRjYzg4NTgtOTM0OS0zY2VkLWJjMTYtYWI1OTU4MzRiNmY3"
         },
     {
             "channel_id": 4,
             "channel_order": 4,
-            "channel_name": "Mizzima TV",
+            "channel_name": "TV9",
             "channel_category": "entertainment",
             "channel_description": "",
-            "channel_url" : "https://l1-xl1.myanmarnet.com/relay/mizzima/ch1/stream_hi/index.m3u8"
+            "channel_url" : "https://fvtv.mywire.org/streams/dailymotion/ch_tv9.m3u8"
         },
     {
             "channel_id": 5,
             "channel_order": 5,
-            "channel_name": "Mahar",
+            "channel_name": "HELLO",
             "channel_category": "entertainment",
             "channel_description": "",
-            "channel_url" : "https://5f49feccd0d91.streamlock.net/channel/mahar-web.smil/playlist.m3u8"
+            "channel_url" : "https://rtmokeymobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b2064000.m3u8"
         },
     {
             "channel_id": 6,
             "channel_order": 6,
-            "channel_name": "V2H8",
+            "channel_name": "DRAMA SANGAT",
             "channel_category": "series",
             "channel_description": "",
-            "channel_url" : "https://edge6a.v2h-cdn.com/appt7/MVM.stream_720p/playlist.m3u8"
+            "channel_url" : "https://stream-03.sg1.dailymotion.com/sec(jyCOMoYa2SFWfHvye_Gd0pOKxvOlandY7Tjs8HSGiM0)/dm/3/x6zvnex/s/live-4.m3u8"
         },
     {
         	"channel_id": 7,
@@ -103,10 +103,10 @@
     {
             "channel_id": 13,
             "channel_order": 13,
-            "channel_name": "Screamfest",
+            "channel_name": "ASTRO WARNA",
             "channel_category": "movie",
             "channel_description": "",
-            "channel_url" : "https://vcnleomarkstudios.teleosmedia.com/stream/leomarkstudios/screamfest/seglist_720p.m3u8"
+            "channel_url" : "http://iptvtree.net:8080/live/qVXeKPjVIu/9DvGhbBgfI/157492.ts"
         },
     {
             "channel_id": 14,
@@ -127,10 +127,10 @@
     {
             "channel_id": 16,
             "channel_order": 16,
-            "channel_name": "News1",
+            "channel_name": "RTB Sukmaindera",
             "channel_category": "news",
             "channel_description": "",
-            "channel_url" : "http://news1.live14.com/stream/news1_hi.m3u8"
+            "channel_url" : "https://rtb-channel.glue.live/smil:rtb1/chunklist.m3u8"
         },
 	{
             "channel_id": 17,
@@ -191,18 +191,18 @@
 	{
             "channel_id": 24,
             "channel_order": 24,
-            "channel_name": "NJPW",
+            "channel_name": "TVRI",
             "channel_category": "sport",
             "channel_description": "",
-            "channel_url": "https://aka-amd-njpwworld-hls-enlive.akamaized.net/hls/video/njpw_en/njpw_en_channel01_3/chunklist_DVR.m3u8"
+            "channel_url": "http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(04)/index.m3u8"
         },
 	{
             "channel_id": 25,
             "channel_order": 25,
-            "channel_name": "MONO29 HD",
+            "channel_name": "Metro TV",
             "channel_category": "series",
             "channel_description": "",
-            "channel_url": "https://edge2-bkk.3bb.co.th:9443/MONO29_HLS_1080P/mono29hls_1080TH.stream/chunklist_w1578972109.m3u8"
+            "channel_url": "http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w1354494356_b1492000_sleng.m3u8"
         },
 	{
             "channel_id": 26,
@@ -215,10 +215,10 @@
 	{
             "channel_id": 27,
             "channel_order": 27,
-            "channel_name": "Metro TV HD",
+            "channel_name": "GTV HD",
             "channel_category": "music",
             "channel_description": "",
-            "channel_url": "http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w1584163574_b1492000_sleng.m3u8"
+            "channel_url": "https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta-avc1_2000000=1-mp4a_64000_eng=2.m3u8"
         },
 	{
             "channel_id": 28,
@@ -271,10 +271,10 @@
 	{
             "channel_id": 34,
             "channel_order": 34,
-            "channel_name": "CBS News",
+            "channel_name": "AHSAN TV",
             "channel_category": "news",
             "channel_description": "",
-            "channel_url": "http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8"
+            "channel_url": "http://119.82.224.75:1935/live/ahsantv/chunk.m3u8"
         },
 	{
             "channel_id": 35,
