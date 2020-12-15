@@ -640,42 +640,42 @@
 	{
             "channel_id": 80,
             "channel_order": 80,
-            "channel_name": "CHIVE TV",
+            "channel_name": "TVRINASIONAL",
             "channel_category": "entertainment",
             "channel_description": "",
-            "channel_url": "https://a.jsrdn.com/broadcast/4df1bf71c1/+0000/c.m3u8"
+            "channel_url": "http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(03)/index.m3u8"
         },
 	{
             "channel_id": 81,
             "channel_order": 81,
-            "channel_name": "Retro Music TV",
+            "channel_name": "TVKU",
             "channel_category": "music",
             "channel_description": "",
-            "channel_url": "http://592f16fa90d9b.streamlock.net/retrotv/smil:retrotv2.smil/chunklist_w772554622_b750000.m3u8"
+            "channel_url": "http://103.30.1.14:8080/hls/live.m3u8"
         },
 	{
             "channel_id": 82,
             "channel_order": 82,
-            "channel_name": "ATV",
+            "channel_name": "CNBC",
             "channel_category": "entertainment",
             "channel_description": "",
-            "channel_url": "https://15813114727637862976168173814320.live.prod.hkatv.com/a1_cbr_lo.m3u8"
+            "channel_url": "https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist.m3u8"
         },
 	{
             "channel_id": 83,
             "channel_order": 83,
-            "channel_name": "SBS Star",
+            "channel_name": "jakata Global",
             "channel_category": "entertainment",
             "channel_description": "",
-            "channel_url": "https://streaming-a-802.cdn.nextologies.com/SBS_18/playlist.m3u8"
+            "channel_url": "http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/playlist.m3u8"
         },
 	{
             "channel_id": 84,
             "channel_order": 84,
-            "channel_name": "MVTV",
+            "channel_name": "CNA",
             "channel_category": "entertainment",
             "channel_description": "",
-            "channel_url": "https://edge6a.v2h-cdn.com/appt4/MVTV75.stream_720p/playlist.m3u8"
+            "channel_url": "https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8"
         },
 	{
             "channel_id": 85,
