@@ -7,7 +7,7 @@
     {
             "channel_id": 1,
             "channel_order": 1,
-            "channel_name": "Rtm1",
+            "channel_name": "RTM1",
             "channel_category": "entertainment",
             "channel_description": "",
             "channel_url" : "https://rtm1mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b2064000.m3u8"
@@ -159,10 +159,10 @@
 	{
             "channel_id": 20,
             "channel_order": 20,
-            "channel_name": "BCC 3",
+            "channel_name": "MNC",
             "channel_category": "Kids",
             "channel_description": "",
-            "channel_url": "https://bozztv.com/36bay2/gin/giniko_bbcthree_900kb_36bay2/index.m3u8"
+            "channel_url": "https://vcdn2.rctiplus.id/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_1000000=3-mp4a_64000_eng=2.m3u8"
         },
 	{
             "channel_id": 21,
@@ -207,10 +207,10 @@
 	{
             "channel_id": 26,
             "channel_order": 26,
-            "channel_name": "Fashion TV",
+            "channel_name": "Inews",
             "channel_category": "lifestyle",
             "channel_description": "",
-            "channel_url": "http://lb.streaming.sk/fashiontv/stream/chunklist_w1402273512.m3u8"
+            "channel_url": "https://vcdn2.rctiplus.id/live/eds/inews_fta/live_fta/inews_fta-avc1_1000000=3-mp4a_64000_eng=2.m3u8"
         },
 	{
             "channel_id": 27,
@@ -728,18 +728,18 @@
 	{
             "channel_id": 91,
             "channel_order": 91,
-            "channel_name": "Lotus Macau",
+            "channel_name": "ASTRO Ria",
             "channel_category": "entertainment",
             "channel_description": "",
-            "channel_url": "https://cdn6.goprimetime.info/feed/LC41/index.m3u8"
+            "channel_url": "http://ts.lemmovie.com/0d98a346-7dc3-46ac-93b8-62a4b1e2c578.m3u8"
         },
 	{
             "channel_id": 92,
             "channel_order": 92,
-            "channel_name": "Fashion TV Midnite",
+            "channel_name": "ASTRO Prima",
             "channel_category": "lifestyle",
             "channel_description": "",
-            "channel_url": "https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b2800000_t64NzIwcA==.m3u8"
+            "channel_url": "http://ts.lemmovie.com/30194138-4d0c-4243-9438-21fd15a7216b.m3u8"
         },
 	{
             "channel_id": 93,
@@ -752,18 +752,18 @@
 	{
             "channel_id": 94,
             "channel_order": 94,
-            "channel_name": "Channel 8",
+            "channel_name": "Suara tv",
             "channel_category": "entertainment",
             "channel_description": "",
-            "channel_url": "http://54c241893bf39.streamlock.net:1935/ch8/ch8/chunklist.m3u8"
+            "channel_url": "http://119.235.249.58:1935/surautv/live/chunklist_w388392983.m3u8"
         },
     {
             "channel_id": 95,
             "channel_order": 95,
-            "channel_name": "EBS Kids",
+            "channel_name": "Iqraa TV",
             "channel_category": "cartoon",
             "channel_description": "",
-            "channel_url": "http://ebsonairios.ebs.co.kr/ebsutablet500k/_definst_/tablet500k/chunklist_w1065959876.m3u8"
+            "channel_url": "http://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar1.stream.smil/chunklist_b1800000_t64NTc2cA==.m3u8"
         },
 	{
             "channel_id": 96,
@@ -808,10 +808,10 @@
 	{
             "channel_id": 101,
             "channel_order": 101,
-            "channel_name": "CBS News",
+            "channel_name": "FOX TV",
             "channel_category": "news",
             "channel_description": "",
-            "channel_url": "http://bcliveuniv-lh.akamaihd.net/i/iptv1_1@194050/master.m3u8"
+            "channel_url": "http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOX-HD-1080p/playlist.m3u8"
         },
 	{
             "channel_id": 102,
@@ -832,10 +832,10 @@
 	{
             "channel_id": 104,
             "channel_order": 104,
-            "channel_name": "ABC 2",
+            "channel_name": "HBO",
             "channel_category": "news",
             "channel_description": "",
-            "channel_url": "http://cms-wowza.lunabyte.io/wbrz-live-1/_definst_/smil:wbrz-live.smil/chunklist_b1300000.m3u8?fluxustv.m3u8"
+            "channel_url": "https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/1.m3u8"
         },
 	{
             "channel_id": 105,
